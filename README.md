@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 
 Saitama University, Quantum Condensed Matter Theory Group: 
-[日本語](https://phy.saitama-u.ac.jp/~hoshino/),
-[English](https://phy.saitama-u.ac.jp/~hoshino/index_eng.html)
+[日本語](https://park.saitama-u.ac.jp/~hoshino/index.html),
+[English](https://park.saitama-u.ac.jp/~hoshino/index_eng.html)
