@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-Saitama University, Quantum Condensed Matter Theory Group: 
-[日本語](https://park.saitama-u.ac.jp/~hoshino/index.html),
-[English](https://park.saitama-u.ac.jp/~hoshino/index_eng.html)
+Institute for Materials Research, Tohoku University: 
+[日本語](https://www.nomura-lab.imr.tohoku.ac.jp/%E3%83%9B%E3%83%BC%E3%83%A0),
+[English](https://www.nomura-lab.imr.tohoku.ac.jp/english/home)
