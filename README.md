@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-Institute for Materials Research, Tohoku University: 
+Institute for Materials Research (IMR), Tohoku University: 
 [日本語](https://www.nomura-lab.imr.tohoku.ac.jp/%E3%83%9B%E3%83%BC%E3%83%A0),
 [English](https://www.nomura-lab.imr.tohoku.ac.jp/english/home)
